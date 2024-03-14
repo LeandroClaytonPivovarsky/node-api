@@ -8,4 +8,4 @@ test('TESTANDO PARA VER SE ELE FUNCIONA', () => {
 
     expect(verificadorSenha('LEANDRÃO_123')).toBe("A SENHA TÁ BOAZINHA ATÉ");
 });
-
+''
